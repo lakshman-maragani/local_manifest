@@ -1,0 +1,11 @@
+"<?xml version="1.0" encoding="UTF-8"?>"
+"<manifest>"
+
+"<!--Trees-->"
+
+
+"<project path="android_device_realme_RMX1901" name="SagarMakhar/android_device_realme_RMX1901.git" remote="github" revision="lineage-18.1" />"
+"<project path="android_device_realme_sdm710-common" name="SagarMakhar/android_device_realme_sdm710-common.git" remote="github" revision="lineage-18.1" />"
+"<project path="AndroidBlobs" name="AndroidBlobs/vendor_realme_RMX1901.git" remote="github" revision="lineage-18.1" />"
+"<project path="android_kernel_realme_sdm710" name="SagarMakhar/android_kernel_realme_sdm710.git" remote="github" revision="lineage-18.1" />"
+"</manifest>"
